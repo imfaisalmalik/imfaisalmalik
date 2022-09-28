@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imfaisalmalik" alt="imfaisalmalik" /></a> </p>
 
-- 🔭 I’m currently working as a Machine Learning Engineer.
+- 🔭 I’m currently working as a **Machine Learning Engineer**
 
 - 👨‍💻 Please have a look at my [Google Scholar Profile](https://scholar.google.com/citations?user=yQ0pnKEAAAAJ&hl=en)
 
